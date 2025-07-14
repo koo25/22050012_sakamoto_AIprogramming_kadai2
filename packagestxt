@@ -1,0 +1,5 @@
+build-essential
+pkg-config
+libssl-dev
+libffi-dev
+libgl1-mesa-glx
